@@ -18,8 +18,8 @@ Installation
 Clone the repository:
 
 Copy code:-
-git clone https:
-Open the index.html file in your web browser.
+git clone https:https://github.com/soumyagupta174/calculator
+
 
 Usage
 
@@ -27,6 +27,4 @@ Enter numbers and perform calculations using the buttons provided.
 Click the "=" button to see the result.
 Use the "AC" button to clear the input and output.
 
-Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
